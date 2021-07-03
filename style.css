@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-family: 'Dancing Script', cursive;
+text-shadow: 3px 3px rgb(4, 0, 255);
+}
+
+#status, #number_of_objects
+{
+font-size: 20px;
+font-family: 'Dancing Script', cursive;
+}
+
+canvas{
+    border-radius: 25px;
+    box-shadow: 5px 5px grey;
+}
+
